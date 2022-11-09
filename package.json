@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts"{
+    "start": "node index.js",
+    "node .": "node index.js"
+  },
+  "repository":{
+    "type": "git",
+    "url" : "https://github.com/ihanoman1244/NSFW-xutilty-.git"
+  },
   "dependencies": {
     "@conutik/waifu-pics": "^2.0.2",
     "@nsfwspy/node": "^1.0.8",
