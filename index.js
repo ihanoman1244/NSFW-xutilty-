@@ -443,12 +443,6 @@ GG
 keepAlive();
 
 
-client.login("MTAzMDA5NTk1NTI2Mjk2MzcyMg.GMGbyk.WPdrj0gQdrXQAJbaUTN4OoEN-kp0EPAKELvrQc");
+client.login(process.env.KONTOL);
 
-setInterval(() => {
-  if (!client || !client.user) {
-    console.log("Client Not Login, Process Kill")
-    process.kill(1);
-  }
-}, 2000);  
 
