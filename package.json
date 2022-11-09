@@ -1,0 +1,25 @@
+{
+  "name": "NSFW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@conutik/waifu-pics": "^2.0.2",
+    "@nsfwspy/node": "^1.0.8",
+    "akaneko": "^5.1.2",
+    "discord-phub": "^1.0.7",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "gif-finder": "^1.7.0",
+    "porn-picture": "^1.6.0",
+    "regexp": "^1.0.0",
+    "ultimate-nsfw": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
