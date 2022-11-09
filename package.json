@@ -1,13 +1,15 @@
 {
   "name": "NSFW",
   "version": "1.0.0",
-  "description": "",
+  "description": "kontol",
   "main": "index.js",
-  "scripts":{
+"type": "module"
+
+  "scripts": {
     "start": "node index.js",
     "node .": "node index.js"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url" : "https://github.com/ihanoman1244/NSFW-xutilty-.git"
   },
@@ -28,6 +30,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ijul",
   "license": "ISC"
 }
