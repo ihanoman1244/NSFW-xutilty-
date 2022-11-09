@@ -19,7 +19,7 @@ client.on('ready', () => {
 // Bot Settings //
 const settings = {
     prefix: "o.",
-    token: process.env.TOKEN
+    token: "MTAzMDA5NTk1NTI2Mjk2MzcyMg.GMGbyk.WPdrj0gQdrXQAJbaUTN4OoEN-kp0EPAKELvrQc"
 }
 
 
@@ -443,7 +443,7 @@ GG
 keepAlive();
 
 
-client.login(process.env.token);
+client.login("MTAzMDA5NTk1NTI2Mjk2MzcyMg.GMGbyk.WPdrj0gQdrXQAJbaUTN4OoEN-kp0EPAKELvrQc");
 
 setInterval(() => {
   if (!client || !client.user) {
