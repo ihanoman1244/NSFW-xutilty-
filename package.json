@@ -3,11 +3,9 @@
   "version": "1.0.0",
   "description": "kontol",
   "main": "index.js",
-"type": "module",
 
   "scripts": {
-    "start": "node index.js",
-    "node .": "node index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
