@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "kontol",
   "main": "index.js",
-
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url" : "https://github.com/ihanoman1244/NSFW-xutilty-.git"
+    "url": "https://github.com/ihanoman1244/NSFW-xutilty-.git"
   },
   "dependencies": {
     "@conutik/waifu-pics": "^2.0.2",
@@ -24,9 +23,6 @@
     "ultimate-nsfw": "^1.1.0"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "ijul",
   "license": "ISC"
