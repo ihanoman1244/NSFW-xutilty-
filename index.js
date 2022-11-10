@@ -19,7 +19,7 @@ client.on('ready', () => {
 // Bot Settings //
 const settings = {
     prefix: "+",
-    token: "MTAzMDA5NTk1NTI2Mjk2MzcyMg.GMGbyk.WPdrj0gQdrXQAJbaUTN4OoEN-kp0EPAKELvrQc"
+    token: "MTAzMDA5NTk1NTI2Mjk2MzcyMg.GabfL2.Qi1rl4S364kTDB3PT3nWu74dLJTZQ3JXa9ZFtI"
 }
 
 
@@ -443,6 +443,7 @@ GG
 keepAlive();
 
 
-client.login('MTAzMDA5NTk1NTI2Mjk2MzcyMg.GMGbyk.WPdrj0gQdrXQAJbaUTN4OoEN-kp0EPAKELvrQc');
+client.login("MTAzMDA5NTk1NTI2Mjk2MzcyMg.GabfL2.Qi1rl4S364kTDB3PT3nWu74dLJTZQ3JXa9ZFtI");
+
 
 
